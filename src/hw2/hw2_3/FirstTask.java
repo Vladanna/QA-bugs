@@ -1,4 +1,4 @@
-package hw2_3;
+package hw2.hw2_3;
 
 
 public class FirstTask {

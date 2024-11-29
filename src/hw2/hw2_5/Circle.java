@@ -1,4 +1,4 @@
-package hw2_5;
+package hw2.hw2_5;
 
 public class Circle {
 

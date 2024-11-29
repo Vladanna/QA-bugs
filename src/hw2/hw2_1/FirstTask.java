@@ -1,4 +1,4 @@
-package hw2_1;
+package hw2.hw2_1;
 
 import java.util.Scanner;
 
