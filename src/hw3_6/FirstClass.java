@@ -1,4 +1,4 @@
-package hw3_6;
+package hw3.hw3_6;
 
 public class FirstClass {
 
